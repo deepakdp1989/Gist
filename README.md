@@ -6,8 +6,11 @@ Git
      1. Git as a directed acyclic graph --> Finite state automata --> mutable
      2. Git vs svn. Git is distributed, scalable.
      3. Git workflow: feature branch, hot-fix branch, incremental changes
-     4. Git commands: config, init, log
-     checkout, push, pull, status, commit, branch, merge, fetch
+     4. Git commands: 
+          a. config
+          b. init, status
+          c. add, rm, reset, log
+          d. checkout, push, pull, status, commit, branch, merge, fetch
 
 HTML5
 
