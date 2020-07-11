@@ -11,6 +11,9 @@ Git
           b. init, status
           c. add, rm, reset, log
           d. checkout, push, pull, status, commit, branch, merge, fetch
+          
+Unix Shell Scripts:
+     
 
 HTML5
 
@@ -33,6 +36,9 @@ CSS3
      5. table vs div: tables aren't responsive, divs can be.
      6. multi-column layout
      flexbox, CSS-Grid
+     7. Object-oriented CSS - mixin and include
+     8. CSS preprocessors.
+     
 
 
 Javascript
@@ -200,7 +206,7 @@ Finite loops vs infinite loops: while/ for without condition
 Time complexity
 
 
-React
+React, React Native, Redux
 
 
 
