@@ -137,7 +137,8 @@ JS Frameworks
      
      
 Relational Databases, SQL, MySQL
-https://github.com/deepakdp1989/MySQL/wiki/Relational-databases-and-SQL
+
+     https://github.com/deepakdp1989/MySQL/wiki/Relational-databases-and-SQL
 
 
 Linux commands:
@@ -155,6 +156,7 @@ Programming Paradigms:
      Functional-programming
      
 Design Principles:     
+     
      1. Maximum number of colors on a page
      2. UX
      
@@ -163,6 +165,7 @@ Finite loops vs infinite loops: while/ for without condition
 
 
 Time complexity
+
      Time complexity and Space complexity
      Worst Case
      Average Case
@@ -178,10 +181,15 @@ Regular Expressions:
 
 Authentication
 
+      OAuth2.0
+      https://roadmap.sh/guides/basic-authentication
+      JWT: https://roadmap.sh/guides/jwt-authentication
+      
 
 
 Security
 
+     OWASP
 
 
 React, React Native, Redux
