@@ -23,8 +23,17 @@ Unix Shell Scripts:
         mv - move or rename
         rm -rf remove forcefully and recursively
         grep: pattern matching
+        exit, ctrl d - logout
+        cat- contents of file
+        vi - editor
+        i - insert mode
      5. Links - Hard links or Soft Links(Symbolic Links)
-     
+          Hard Links - resemble shortcuts in windows
+          Soft Links - inode numbers
+     6. rwx - read, write, execute
+        chmod
+     7. System user, Super user, Normal user
+     8. 
 
 HTML5
 
@@ -146,19 +155,33 @@ Programming Paradigms:
      Functional-programming
      
 Design Principles:     
+     1. Maximum number of colors on a page
+     2. UX
      
 
 Finite loops vs infinite loops: while/ for without condition
 
 
 Time complexity
+     Time complexity and Space complexity
+     Worst Case
+     Average Case
+     Best Case
+
+Regular Expressions:
+
+     Validitation - forms
+     Email - 
+     URLs - 
+
+
+
+Authentication
+
+
+
+Security
+
 
 
 React, React Native, Redux
-
-
-
-
-
-
-
