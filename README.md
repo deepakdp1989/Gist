@@ -160,6 +160,9 @@ Design Principles:
      1. Maximum number of colors on a page
      2. UX
      
+Programming Best practices and refactoring
+
+     Avoid if-else (Martin Fowler)
 
 Finite loops vs infinite loops: while/ for without condition
 
