@@ -13,6 +13,17 @@ Git
           d. checkout, push, pull, status, commit, branch, merge, fetch
           
 Unix Shell Scripts:
+
+     1. df -h : Display disk space statistics
+     2. tab: sort of auto-suggestion
+     3. ls - list content
+     4. cd or cd ~: change to home directory
+        cd - : change to previous directory
+        cd .. : change to parent directory
+        mv - move or rename
+        rm -rf remove forcefully and recursively
+        grep: pattern matching
+     5. Links - Hard links or Soft Links(Symbolic Links)
      
 
 HTML5
