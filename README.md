@@ -33,7 +33,6 @@ Unix Shell Scripts:
      6. rwx - read, write, execute
         chmod
      7. System user, Super user, Normal user
-     8. 
 
 HTML5
 
@@ -58,7 +57,7 @@ CSS3
      flexbox, CSS-Grid
      7. Object-oriented CSS - mixin and include
      8. CSS preprocessors - SASS, LESS
-     9. Bootstrap
+     9. Bootstrap, Materialize
      
 
 
@@ -125,13 +124,16 @@ Javascript
 
      https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
      https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing
+     
+     3. strict mode
 
+Library vs Framework
 
 Server-side javascript
 
-     Node.js official docs
+     Node.js official docs: https://nodejs.org/api/documentation.html
 
-JS Frameworks
+JS Library
 
      JQuery
      
@@ -175,12 +177,11 @@ Time complexity
      Best Case
 
 Regular Expressions:
-
+     
+     Pattern matching
      Validitation - forms
      Email - 
      URLs - 
-
-
 
 Authentication
 
@@ -189,10 +190,13 @@ Authentication
       JWT: https://roadmap.sh/guides/jwt-authentication
       
 
-
 Security
 
      OWASP
 
 
 React, React Native, Redux
+
+     CSS in JS
+     State
+     Props
